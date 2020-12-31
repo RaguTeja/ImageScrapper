@@ -12,6 +12,11 @@ Type of programming: Modular Programming
 Framework : Flask
 
 FILES INFORMATION:
+UI.PNG : Web application after deployment
+
+QUERYING.PNG : GIVING REQUIRED IMAGE NAME
+
+OUTPUT.PNG : RESULTS RETRIEVED FROM GOOGLE API
 
 Procfile : This file is important for deployment in heroku platform. Here we are telling the dynos applications of heroku to start the execution of source code from specified file with gunicorn server.
 
